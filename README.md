@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>Hello World, I'm Roee Habari Tamir</h1>
-  Junior Software Engineer with B.Sc in Computer Science
+  Software Engineer with B.Sc in Computer Science
 </div>
 
   ## About Me 🌟
