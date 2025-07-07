@@ -4,7 +4,7 @@
 </div>
 
   ## About Me 🌟
-  Junior Software Engineer, highly focused and motivated, self-learner with a passion for learning new technologies.
+  Software Engineer, highly focused and motivated, self-learner with a passion for learning new technologies.
   Enjoy working on full life cycle projects. Team-player with effective communication skills.
 
 
