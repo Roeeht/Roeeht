@@ -19,10 +19,10 @@
 
 
    ## Projects 🪐
-  - [**QuiCalc**](https://github.com/Roeeht/QuiCalc)
-  - [**SimonGame**](https://github.com/Roeeht/Simon-Game)
+  - [**Jobs Processing System**](https://github.com/Roeeht/Jobs_Processing_System) 
+  - [**Agent Messiah**](https://github.com/Roeeht/Agent_Messiah)
   - [**LyricsProducer**](https://github.com/Roeeht/LyricsProducer)
-
+  - [**Investments_Balancing_App**](https://github.com/Roeeht/investment-app))
 
 
 
